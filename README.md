@@ -150,4 +150,4 @@ GRANT ALL PRIVILEGES ON DATABASE etl_project TO myuser;
 If you'd like to contribute, feel free to **fork** the repository, create a new branch, and submit a pull request!
 
 ✅ **Author:** Alekhya Ramisetti
-📌 **GitHub Repository:** [GitHub Link](https://github.com/alekhyaramisetti01/etl-csv-to-sql)
+📌 **GitHub Repository:** [[ETL Data Pipeline]](https://github.com/alekhyaramisetti01/etl-csv-to-sql)
