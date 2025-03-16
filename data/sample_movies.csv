@@ -1,0 +1,101 @@
+movie_id,title,year,genre,rating
+1,Gladiator,1992,Adventure,8.5
+2,The Dark Knight,1998,Sci-Fi,7.4
+3,Interstellar,2009,Horror,9.0
+4,Inception,1993,Adventure,7.3
+5,Interstellar,2020,Horror,6.6
+6,The Dark Knight,1993,Mystery,5.2
+7,Pulp Fiction,1984,Comedy,7.9
+8,The Dark Knight,2012,Fantasy,7.5
+9,Avatar,2006,Comedy,5.3
+10,The Dark Knight,2001,Mystery,9.0
+11,The Matrix,1995,Action,6.1
+12,Pulp Fiction,1990,Drama,7.6
+13,Jurassic Park,2007,Comedy,9.5
+14,Inception,1988,Horror,5.3
+15,Jurassic Park,2008,Adventure,8.0
+16,Avatar,2006,Comedy,8.1
+17,Interstellar,2006,Thriller,8.1
+18,Gladiator,1986,Horror,9.4
+19,Interstellar,2024,Fantasy,5.3
+20,Jurassic Park,2013,Action,5.3
+21,The Godfather,1995,Horror,6.8
+22,Interstellar,2024,Fantasy,5.2
+23,The Dark Knight,2020,Romance,6.9
+24,Jurassic Park,1987,Mystery,5.6
+25,Interstellar,2016,Horror,5.5
+26,Avatar,1994,Mystery,8.8
+27,The Matrix,2018,Adventure,6.9
+28,Titanic,2002,Drama,6.8
+29,Titanic,1986,Thriller,7.8
+30,Jurassic Park,1983,Mystery,8.6
+31,Titanic,1987,Drama,6.6
+32,Titanic,2000,Mystery,6.3
+33,Jurassic Park,1981,Fantasy,7.5
+34,Gladiator,2011,Fantasy,7.0
+35,Titanic,2007,Horror,7.6
+36,Pulp Fiction,1997,Drama,7.9
+37,The Dark Knight,1993,Action,8.0
+38,Avatar,2010,Action,5.7
+39,Interstellar,1982,Mystery,7.2
+40,The Godfather,1996,Horror,8.1
+41,Interstellar,2012,Romance,9.1
+42,Inception,2019,Action,5.7
+43,Interstellar,2002,Mystery,9.5
+44,The Dark Knight,2004,Mystery,8.9
+45,Pulp Fiction,2007,Drama,8.8
+46,The Godfather,2000,Fantasy,8.2
+47,Titanic,2024,Comedy,6.2
+48,Avatar,2022,Thriller,7.7
+49,Pulp Fiction,1983,Romance,6.7
+50,The Matrix,2006,Sci-Fi,6.4
+51,The Godfather,1990,Sci-Fi,5.3
+52,Inception,1994,Comedy,5.4
+53,Jurassic Park,2013,Fantasy,8.6
+54,The Godfather,1991,Action,8.9
+55,Titanic,2017,Romance,8.4
+56,Jurassic Park,1995,Action,7.0
+57,Titanic,2010,Romance,5.5
+58,The Matrix,1987,Romance,8.6
+59,Inception,1980,Adventure,6.0
+60,The Dark Knight,2022,Horror,9.1
+61,The Dark Knight,2020,Mystery,8.8
+62,Gladiator,1998,Horror,6.7
+63,Jurassic Park,1988,Sci-Fi,9.3
+64,Interstellar,2021,Romance,6.3
+65,Gladiator,2020,Action,8.4
+66,Titanic,2023,Action,6.7
+67,Gladiator,2019,Fantasy,5.6
+68,The Matrix,2002,Romance,5.1
+69,Titanic,2024,Adventure,5.8
+70,The Matrix,2001,Action,5.5
+71,Titanic,1980,Comedy,6.3
+72,The Matrix,2006,Thriller,6.2
+73,Titanic,2024,Fantasy,8.4
+74,Interstellar,2014,Thriller,6.6
+75,Titanic,2012,Thriller,8.7
+76,The Dark Knight,1980,Action,9.3
+77,Titanic,1987,Drama,6.6
+78,Inception,2021,Drama,8.8
+79,The Godfather,1984,Mystery,8.1
+80,The Godfather,1981,Action,5.0
+81,Gladiator,1999,Fantasy,6.9
+82,The Matrix,2014,Comedy,9.2
+83,The Matrix,2000,Fantasy,8.0
+84,Inception,1997,Thriller,9.1
+85,Inception,1982,Mystery,5.8
+86,Avatar,1995,Romance,8.6
+87,Inception,2001,Fantasy,9.4
+88,The Dark Knight,1987,Romance,6.9
+89,The Godfather,2021,Horror,6.8
+90,Interstellar,1989,Fantasy,9.5
+91,Jurassic Park,2020,Romance,7.8
+92,Pulp Fiction,2012,Fantasy,7.2
+93,Jurassic Park,1998,Drama,6.2
+94,The Godfather,1984,Drama,9.1
+95,Avatar,2018,Comedy,6.1
+96,Titanic,1981,Adventure,7.0
+97,Avatar,1984,Fantasy,7.7
+98,Titanic,2011,Action,6.1
+99,Pulp Fiction,1989,Thriller,8.9
+100,Jurassic Park,1990,Horror,5.5
