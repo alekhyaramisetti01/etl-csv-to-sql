@@ -7,6 +7,9 @@ This project demonstrates a complete **Extract, Transform, Load (ETL) pipeline**
 ✅ **Loading** the cleaned data into a **PostgreSQL database**
 ✅ **Running SQL queries** for insights and analysis
 
+## ETL Process Animation
+![ETL Process](project_overview_animation.gif) 
+
 This project is structured for modularity, with separate scripts for **extracting, transforming, and loading** data.
 
 ---
