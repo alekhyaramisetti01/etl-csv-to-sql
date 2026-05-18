@@ -3,7 +3,7 @@
 This project demonstrates a complete **Extract, Transform, Load (ETL) pipeline** for processing structured data. The ETL process involves:
 
  **Extracting** data from a CSV file
- **Transforming** the data using Pandas
+ \n **Transforming** the data using Pandas
  **Loading** the cleaned data into a **PostgreSQL database**
  **Running SQL queries** for insights and analysis
 
